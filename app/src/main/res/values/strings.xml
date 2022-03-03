@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">AmadeusPOI</string>
+    <string name="title_list">List</string>
+    <string name="title_map">Map</string>
+    <string name="filter_message">Choose categories</string>
+    <string name="apply">Apply</string>
+    <string name="Cancel">Cancel</string>
+    <string-array name="categories_array">
+        <item>SIGHTS</item>
+        <item>BEACH_PARK</item>
+        <item>HISTORICAL</item>
+        <item>NIGHTLIFE</item>
+        <item>RESTAURANT</item>
+        <item>SHOPPING</item>
+    </string-array>
+</resources>
